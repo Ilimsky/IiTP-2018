@@ -1,0 +1,2 @@
+rootProject.name='IiTP-2018'
+include ':app'
